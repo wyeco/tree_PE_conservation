@@ -9,6 +9,6 @@ Versions of the code available in this repository have been archived on Zenodo:
 
 Refer to the above-mentioned DOI to get the last up-to-date version or use the following citation:
 
-Wenyong. (2023). wyeco/tree_PE_conservation-threats: tree_PE_treats (v.1.0). Zenodo. https://doi.org/10.5281/zenodo.8415730
+Wenyong. (2023). wyeco/tree_PE_conservation (v.1.0). Zenodo. https://doi.org/10.5281/zenodo.8415730
 
-If interested, please contact the corresponding authors (wyguo@des.ecnu.edu.cn or guowyhgy@gmail.com; Wen-Yong Guo) for more information.
+If interested, please contact the corresponding author (wyguo@des.ecnu.edu.cn or guowyhgy@gmail.com; Wen-Yong Guo) for more information.

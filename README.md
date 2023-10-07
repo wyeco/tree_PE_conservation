@@ -4,7 +4,7 @@ Guo, W.-Y., Serra-Diaz, J. M., Eiserhardt, W. L., Maitner, B. S., Merow, C., Vio
 
 Versions of the code available in this repository have been archived on Zenodo:
 
-![image](https://github.com/wyeco/tree_PE_conservation-threats/assets/35760941/328e88be-0dd4-4eec-8ae7-63802627764a)
+https://zenodo.org/badge/560737800.svg
 
 
 Refer to the above-mentioned DOI to get the last up-to-date version or use the following citation:

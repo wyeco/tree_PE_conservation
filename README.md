@@ -4,7 +4,7 @@ Guo, W.-Y., Serra-Diaz, J. M., Eiserhardt, W. L., Maitner, B. S., Merow, C., Vio
 
 Versions of the code available in this repository have been archived on Zenodo:
 
-[https://zenodo.org/badge/560737800.svg](https://zenodo.org/badge/latestdoi/560737800)
+<a href="https://zenodo.org/badge/latestdoi/560737800"><img src="https://zenodo.org/badge/560737800.svg" alt="DOI"></a>
 
 
 Refer to the above-mentioned DOI to get the last up-to-date version or use the following citation:

@@ -557,7 +557,7 @@ p4_new1 <- ggplot(data=df4)+
                                 barwidth = 0.5,
                                 barheight = 30))
 
-## Cory suggested zoom in certain regions
+##  zoom in certain regions
 
 tmp_NA <- df4 %>% 
   filter(x< -4710.9375, x> -16716.7969, y<7141.3177, y>1079.2254) ## NA   1279.2254
